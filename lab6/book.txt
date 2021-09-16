@@ -1,8 +1,0 @@
-Williams orange 999 234
-Yurayt blue 660 345
-Azbuka green 500 455
-Azbuka black 550 300
-Eksmo red 750 654
-Labirint white 990 125
-
-
